@@ -1,6 +1,6 @@
 # MTLGJ2017
 
-A multiplayer boat battle, programmed with Unity for the 2017 Montreal Game Jam.
+A multiplayer boat battle, programmed with Unity for the 2017 Montreal Game Jam in a team of 3.
 
 The game can be player at https://ludovical.github.io/MTLGJ2017/ (note that the page may require a few minutes to load the WebGL player in the background).
 
